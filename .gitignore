@@ -19,7 +19,8 @@ $RECYCLE.BIN/
 air.0.1.mp4
 
 SAMPLES/
-
+geo/TREE/*.*
+houdini/backup
 
 # Windows shortcuts
 *.lnk
