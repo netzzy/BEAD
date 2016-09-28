@@ -14,9 +14,10 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
-*.wav
+
 air.0.1.mp4
 TOUCH/*.mov
+VIDEO/*.*
 *.dmp
 
 SAMPLES/
