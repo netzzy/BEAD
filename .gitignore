@@ -16,8 +16,11 @@ $RECYCLE.BIN/
 
 *.wav
 air.0.1.mp4
+TOUCH/*.mov
+*.dmp
 
 SAMPLES/
+stuff/lstudio/
 geo/TREE/*.*
 houdini/backup
 
