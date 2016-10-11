@@ -21,6 +21,7 @@ VIDEO/*.*
 *.dmp
 
 SAMPLES/
+Samples/
 stuff/lstudio/
 geo/TREE/*.*
 houdini/backup
