@@ -25,6 +25,8 @@ Samples/
 stuff/lstudio/
 geo/TREE/*.*
 geo/oil/*.*
+geo/oil_drop/*.*
+geo/sim_drops/*.*
 houdini/backup
 
 # Windows shortcuts
