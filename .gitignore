@@ -28,6 +28,8 @@ geo/oil/*.*
 geo/oil_drop/*.*
 geo/sim_drops/*.*
 houdini/backup
+geo/oil_drop_v2/*.*
+geo/oil_drop/*.*
 
 # Windows shortcuts
 *.lnk
