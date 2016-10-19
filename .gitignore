@@ -24,6 +24,7 @@ SAMPLES/
 Samples/
 stuff/lstudio/
 geo/TREE/*.*
+geo/TREE1/*.*
 geo/oil/*.*
 geo/oil_drop/*.*
 geo/sim_drops/*.*
