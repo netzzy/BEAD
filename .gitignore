@@ -25,6 +25,7 @@ Samples/
 stuff/lstudio/
 geo/TREE/*.*
 geo/TREE1/*.*
+geo/TREE2/*.*
 geo/oil/*.*
 geo/oil_drop/*.*
 geo/sim_drops/*.*
@@ -65,3 +66,5 @@ Temporary Items
 .apdisk
 VIDEO_READY/birds.0.mov
 VIDEO_READY/ground.4.mov
+VIDEO_READY/prostit_all.3.mov
+VIDEO_READY/ground.3.mov
