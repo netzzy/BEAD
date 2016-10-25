@@ -18,6 +18,7 @@ $RECYCLE.BIN/
 air.0.1.mp4
 TOUCH/*.mov
 VIDEO/*.*
+VIDEO/
 *.dmp
 
 SAMPLES/
