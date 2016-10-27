@@ -14,7 +14,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
-
+AE/Adobe After Effects Auto-Save
 air.0.1.mp4
 TOUCH/*.mov
 VIDEO/*.*
@@ -71,3 +71,5 @@ VIDEO_READY/prostit_all.3.mov
 VIDEO_READY/ground.3.mov
 VIDEO_READY/ground_l.3.mov
 VIDEO_READY/prost_l.3.mov
+AE/Adobe After Effects Auto-Save/bead auto-save 40.aep
+VIDEO_READY/Meditation.mov
