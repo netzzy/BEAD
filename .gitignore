@@ -19,6 +19,8 @@ air.0.1.mp4
 TOUCH/*.mov
 VIDEO/*.*
 VIDEO/
+AE/Автосохранение Adobe After Effects/
+AE/Журналы bead.aep/
 *.dmp
 
 SAMPLES/
